@@ -1,5 +1,13 @@
 # Student Management System
 
+## Internship Details
+
+**Company:** CODTECH IT SOLUTIONS  
+**Intern Name:** Dhivyadharshini R  
+**Intern ID:** CITS6426 
+**Domain:** Java Programming  
+**Duration:** 4 Weeks
+
 ## Description
 The Student Management System is a Java-based console application that helps manage student records efficiently. It allows users to add, view, search, update, and delete student information through a simple menu-driven interface. The project demonstrates Object-Oriented Programming (OOP) concepts and CRUD operations using Java.
 
