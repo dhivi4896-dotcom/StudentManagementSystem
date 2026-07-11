@@ -42,5 +42,6 @@ StudentManagementSystem/
 - Java Swing GUI
 - File handling for permanent data storage
 - Input validation
+## Output
 <img width="431" height="490" alt="image" src="https://github.com/user-attachments/assets/0b5de26c-cfad-4d32-978b-7be7fd7ff07b" />
 
